@@ -15,6 +15,7 @@
     ],
     "forecast": [
         {
+            "id": 0,
             "cityId": 0,
             "conditions": "cloudy",
             "wind": {
@@ -33,6 +34,7 @@
             }
         },
         {
+            "id": 1,
             "cityId": 1,
             "conditions": "rain",
             "wind": {
@@ -51,6 +53,7 @@
             }
         },
         {
+            "id": 2,
             "cityId": 2,
             "conditions": "sunny",
             "wind": {
