@@ -2,24 +2,24 @@
     "cities": [
         {
             "id": 0,
-            "name": 'New-York'
+            "name": "New-York"
         },
         {
             "id": 1,
-            "name": 'London'
+            "name": "London"
         },
         {
             "id": 2,
-            "name": 'Tokyo'
+            "name": "Tokyo"
         }
     ],
     "forecast": [
         {
             "cityId": 0,
-            "conditions": 'cloudy',
+            "conditions": "cloudy",
             "wind": {
                 "speed": 6,
-                "direction": 'north-west'
+                "direction": "north-west"
             },
             "temperature": {
                 "day": {
@@ -34,10 +34,10 @@
         },
         {
             "cityId": 1,
-            "conditions": 'rain',
+            "conditions": "rain",
             "wind": {
                 "speed": 3,
-                "direction": 'east'
+                "direction": "east"
             },
             "temperature": {
                 "day": {
@@ -52,10 +52,10 @@
         },
         {
             "cityId": 2,
-            "conditions": 'sunny',
+            "conditions": "sunny",
             "wind": {
                 "speed": 2,
-                "direction": 'south'
+                "direction": "south"
             },
             "temperature": {
                 "day": {
