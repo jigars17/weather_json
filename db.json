@@ -2,15 +2,15 @@
     "cities": [
         {
             "id": 0,
-            "name": "New-York"
+            "name": "Fairfax"
         },
         {
             "id": 1,
-            "name": "London"
+            "name": "Toronto"
         },
         {
             "id": 2,
-            "name": "Tokyo"
+            "name": "Mumbai"
         }
     ],
     "forecast": [
@@ -62,12 +62,12 @@
             },
             "temperature": {
                 "day": {
-                    "min": 22,
-                    "max": 28
+                    "min": 28,
+                    "max": 32
                 },
                 "night": {
-                    "min": 16,
-                    "max": 19
+                    "min": 22,
+                    "max": 26
                 }
             }
         }
